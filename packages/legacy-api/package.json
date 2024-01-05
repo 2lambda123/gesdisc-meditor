@@ -37,7 +37,7 @@
         "node-nats-streaming": "^0.2.6",
         "passport": "^0.6.0",
         "passport-cognito-oauth2": "^0.1.1",
-        "passport-oauth2": "^1.4.0",
+        "passport-oauth2": "^1.6.1",
         "request": "^2.88.0",
         "request-debug": "^0.2.0",
         "request-promise-native": "^1.0.5",
