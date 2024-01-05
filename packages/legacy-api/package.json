@@ -22,7 +22,7 @@
         "dotenv": "^6.0.0",
         "express-session": "^1.15.6",
         "he": "^1.2.0",
-        "helmet": "^3.13.0",
+        "helmet": "^3.23.3",
         "https-proxy-agent": "^2.2.4",
         "js-yaml": "^3.14.1",
         "jsonpath": "^1.1.1",
