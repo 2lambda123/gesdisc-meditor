@@ -42,7 +42,7 @@
         "request-debug": "^0.2.0",
         "request-promise-native": "^1.0.5",
         "swagger-tools": "^0.10.3",
-        "transliteration": "^1.6.5",
+        "transliteration": "^2.3.5",
         "uuid": "3.3.3"
     },
     "devDependencies": {
