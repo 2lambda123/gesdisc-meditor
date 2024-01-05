@@ -35,7 +35,7 @@
         "mustache": "^3.0.1",
         "node-fetch": "^2.6.7",
         "node-nats-streaming": "^0.2.6",
-        "passport": "^0.4.0",
+        "passport": "^0.6.0",
         "passport-cognito-oauth2": "^0.1.1",
         "passport-oauth2": "^1.4.0",
         "request": "^2.88.0",
