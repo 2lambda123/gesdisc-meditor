@@ -39,7 +39,7 @@
         "lodash.omitby": "^4.6.0",
         "lodash.pickby": "^4.6.0",
         "log4js": "^6.7.1",
-        "mongodb": "^4.12.1",
+        "mongodb": "^4.17.0",
         "monquery": "^0.2.0",
         "mustache": "^4.2.0",
         "next": "^13.5.6",
