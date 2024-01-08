@@ -60,7 +60,7 @@
         "shortid": "^2.2.16",
         "use-immer": "^0.8.1",
         "uuid": "^8.2.0",
-        "zod": "^3.19.1"
+        "zod": "^3.22.3"
     },
     "devDependencies": {
         "@gesdisc/prettier-config": "^1.0.1",
