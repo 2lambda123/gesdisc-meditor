@@ -8,13 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
     title: 'mEditor Documentation',
     tagline: 'How to use the GES DISC Model Editor application and API',
-    url: process.env.MEDITOR_ORIGIN || 'http://localhost',
-    baseUrl: '/meditor/docs',
+    url: process.env.PRODUCTION_URL || 'http://example.com',
+    baseUrl: '/production/docs',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'images/favicon.ico',
+    favicon: '/production/images/favicon.ico',
 
     i18n: {
+        defaultLocale: 'en',
+        locales: ['en', 'fr', 'es'],
         defaultLocale: 'en',
         locales: ['en'],
     },
@@ -28,16 +30,17 @@ const config = {
                     routeBasePath: '/',
                     sidebarPath: require.resolve('./sidebars.js'),
                     editUrl:
-                        'https://git.earthdata.nasa.gov/projects/MEDITOR/repos/meditor/browse/docs',
+                        'https://production.example/docs/edit',
                     docLayoutComponent: '@theme/DocPage',
                     docItemComponent: '@theme/ApiItem',
                 },
                 blog: false,
                 // blog: {
                 //     blogTitle: 'Making mEditor',
-                //     routeBasePath: '/blog',
+                    routeBasePath: '/blog',
                 // },
                 theme: {
+                    customCss: '/production/css/custom.css',
                     customCss: require.resolve('./src/css/custom.css'),
                 },
             }),
