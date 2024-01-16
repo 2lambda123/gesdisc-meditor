@@ -43,8 +43,8 @@
         },
         "title": "AIRS NRT data gaps for 12/05/2011",
         "body": "<p>Due to a guard test and maneuver, there is gaps in the AIRS NRT data for DOY 339     starting from 10:41:24 - 10:59:24 and 18:53:24 - 18:59:24.</p>\n",
-        "expiration": "2011-12-09T21:00:00Z",
-        "start": "2011-12-05T21:00:00Z",
+        "expiration": "2023-12-09T21:00:00Z",
+        "start": "2021-10-05T21:00:00Z",
         "tags": ["nrt"],
         "datasets": [],
         "notes": "Imported from Plone http://disc.gsfc.nasa.gov/alerts/airs-nrt-data-gaps-for-12-05-2011......."
