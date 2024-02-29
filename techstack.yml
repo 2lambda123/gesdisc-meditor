@@ -2,7 +2,7 @@ repo_name: 2lambda123/gesdisc-meditor
 report_id: 28f8d08d299b75f8083d313745aab65d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:57:05+00:00'
+timestamp: '2024-02-29T19:18:02+00:00'
 requested_by: 2lambda123
 provider: github
 branch: main
@@ -108,7 +108,7 @@ tools:
   last_updated_by: Krupa Rami
   last_updated_on: 2023-01-25 19:58:52.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.5.6
   open_source: true
@@ -261,7 +261,7 @@ tools:
   last_updated_by: Ben Forshey
   last_updated_on: 2022-12-08 21:45:17.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.0
   license: MIT
